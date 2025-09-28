@@ -1,0 +1,5 @@
+AMR Analysis Report
+==================================================
+
+Data shape: (30, 5)
+Countries: 6
