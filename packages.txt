@@ -1,11 +1,3 @@
-numpy
-scipy
-pandas
-scikit-learn
-matplotlib
-seaborn
-plotly
-streamlit
-statsmodels
-prophet
-requests
+# System dependencies for Streamlit Cloud deployment
+# Empty file - no special system dependencies needed
+# Python packages should be in requirements.txt only
